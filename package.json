@@ -1,6 +1,6 @@
 {
   "name": "karma-jasmine-precondition",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Karma adapter (framework) for jasmine-precondition",
   "main": "lib/index.js",
   "repository": {
