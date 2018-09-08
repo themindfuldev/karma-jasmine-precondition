@@ -1,10 +1,7 @@
 karma-jasmine-precondition
 ====================
 
-Karma adapter (framework) for jasmine-precondition
-
-It karma adapter for
-+ https://github.com/tiagorg/jasmine-precondition
+Karma adapter (framework) for [jasmine-precondition](https://github.com/tiagorg/jasmine-precondition)
 
 ## Installation
 
