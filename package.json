@@ -1,24 +1,12 @@
 {
   "name": "karma-jasmine-precondition",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Karma adapter (framework) for jasmine-precondition",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tiagorg/karma-jasmine-precondition.git"
+    "url": "https://github.com/themindfuldev/karma-jasmine-precondition.git"
   },
-  "keywords": [
-    "karma",
-    "jasmine",
-    "jquery",
-    "karma-plugin",
-    "karma-jasmine",
-    "karma-framework",
-    "jasmine-jquery",
-    "jasmine-plugin"
-  ],
-  "author": "Sergey Dolinkov",
-  "license": "BSD",
   "keywords": [
     "karma",
     "jasmine",
@@ -28,10 +16,10 @@
     "karma-jasmine",
     "jasmine-precondition"
   ],
-  "author": "Tiago Garcia",
+  "author": "Tiago Romero Garcia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiagorg/karma-jasmine-precondition/issues"
+    "url": "https://github.com/themindfuldev/karma-jasmine-precondition/issues"
   },
-  "homepage": "https://github.com/tiagorg/karma-jasmine-precondition"
+  "homepage": "https://github.com/themindfuldev/karma-jasmine-precondition"
 }
